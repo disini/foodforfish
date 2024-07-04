@@ -4,7 +4,6 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    // "export": "next export",
     "export": "output: 'export'",
     "type-check": "tsc",
     "format": "prettier \"./src/**/*.{js,jsx,ts,tsx,scss,md}\" --write --loglevel warn"
