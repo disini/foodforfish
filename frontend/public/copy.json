@@ -1,0 +1,504 @@
+{
+  "hitTriggers": [
+    {
+      "scene": 1,
+      "object": "teapot",
+      "copy": [
+        "It's a teapot."
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "coffee",
+      "copy": [
+        "I finished my coffee."
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "bookPicture1",
+      "copy": [
+        "Grandpa!",
+        "In the prime of his life!"
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "bookPicture2",
+      "copy": [
+        "Grandpa used to travel\nthe world with this ship."
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "pictureFrame2",
+      "copy": [
+        "The legendary\n*GOLDEN UNDERPANTS*\nof Emperor Zhangzong.",
+        "They where stolen by\nGenghis Khan\nand are lost ever since.",
+        "Grandpa was obsessed by them."
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "pictureFrame1",
+      "copy": [
+        "Grandpa visiting\nthe Mongolian steppe",
+        "Looking for the\n*GOLDEN UNDERPANTS*"
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "painting2",
+      "copy": [
+        "The Mongolian Empire.",
+        "With notes from Grandpa on it!"
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "painting",
+      "copy": [
+        "Genghis Khan riding\non his horse!"
+      ]
+    },
+    {
+      "scene": 1,
+      "object": "clock",
+      "copy": [
+        "Time flies!"
+      ]
+    }
+  ],
+  "text": [
+    {
+      "object": "intro",
+      "copy": [
+        "Two years have passed\nsince *GRANDPA* Died.",
+        "He always went\non adventures.",
+        "Looking for the\n*GOLDEN UNDERPANTS*\nof Genghis Khan",
+        "I just spend my days\nmaking websites.",
+        "Very little ever\nhappens to me."
+      ]
+    },
+    {
+      "object": "introMail",
+      "copy": [
+        "Maybe today will\nbe different.",
+        "But let me read\nthat *MAIL* first."
+      ]
+    },
+    {
+      "object": "readMailFirst",
+      "copy": [
+        "Maybe I should read\nthat *MAIL* first?"
+      ]
+    },
+    {
+      "object": "readMail",
+      "copy": [
+        "An\n*UNDERWEAR SIMULATOR*\n?",
+        "...",
+        "The AD AGENCY wants\nme to make an\n*UNDERWEAR SIMULATOR*",
+        "Oh well..."
+      ]
+    },
+    {
+      "object": "letsGoOutsideFirst",
+      "copy": [
+        "Let's *feed the FISH* first!"
+      ]
+    },
+    {
+      "object": "readMailDone",
+      "copy": [
+        "Work can wait,\nthe *FISH* must be hungry."
+      ]
+    },
+    {
+      "object": "makeTriangleFirst",
+      "copy": [
+        "I should should start\nworking on the\n*UNDERWEAR SIMULATOR*"
+      ]
+    },
+    {
+      "object": "makeTriangle",
+      "copy": [
+        "First things first!\nLet's start with\nrendering a triangle!",
+        "The building block\nof worlds!",
+        "and\n*UNDERWEAR\nSIMULATORS*",
+        "Now slap on\nsome textures.",
+        "Add shading!",
+        "and its done."
+      ]
+    },
+
+    {
+      "object": "makeWebsiteDone",
+      "copy": [
+        "I hope they like it!"
+      ]
+    },
+    {
+      "object": "websiteDone",
+      "copy": [
+        "I hope they like it!"
+      ]
+    },
+    {
+      "object": "readMailAward",
+      "copy": [
+        "They liked\nthe simulator!",
+        "And the Ad Agency\nwon a lot of *AWARDS*.",
+        "They seem to like that.",
+        "Ow,\nthey send me a *PACKAGE*?"
+      ]
+    },
+    {
+      "object": "checkMailBox",
+      "copy": [
+        "Let's check the *MAILBOX*.\nMaybe it already arrived."
+      ]
+    },
+    {
+      "object": "noMail",
+      "copy": [
+        "I hardly get any\nmail these days."
+      ]
+    },
+    {
+      "object": "findFashionPants",
+      "copy": [
+        "That must be the\n*PACKAGE* from\nthe Ad Agency.",
+        "I wonder what's inside?"
+      ]
+    },
+    {
+      "object": "readCross",
+      "copy": [
+        "Here lies Grandpa.",
+        "He died the\nway he lived.",
+        "...",
+        "... ?"
+      ]
+    },
+    {
+      "object": "findHunter",
+      "copy": [
+        "Looks like some\nnice underpants!",
+        "A hunter must have lost it\nwhile roaming this woods.",
+        "I'll take them!"
+      ]
+    },
+    {
+      "object": "bookCaseLocked",
+      "copy": [
+        "Grandpa kept his notes\nin that bookcase.",
+        "But it's locked.",
+        "Maybe I should\n*make a KEY* for it!"
+      ]
+    },
+    {
+      "object": "bookCaseLockedMillRunning",
+      "copy": [
+        "It's still locked.\nThe *KEY* will be finished soon."
+      ]
+    },
+    {
+      "object": "millStart",
+      "copy": [
+        "This machine\ncan almost make\neverything."
+      ]
+    },
+    {
+      "object": "millRun",
+      "copy": [
+        "So, let's make that *KEY*.",
+        "It's going to take a\nwhile before its finished.",
+        "Let's do some other things\nin the meantime."
+      ]
+    },
+    {
+      "random": true,
+      "object": "millWait",
+      "copy": [
+        "It's running",
+        "It's going to take a while"
+      ]
+    },
+    {
+      "object": "bookCaseMillFinished",
+      "copy": [
+        "I should check\non that *KEY*."
+      ]
+    },
+    {
+      "object": "takeKey",
+      "copy": [
+        "Looks like it's done."
+      ]
+    },
+    {
+      "object": "findNote",
+      "copy": [
+        "A letter from grandpa!"
+      ]
+    },
+    {
+      "object": "findNoteEnd",
+      "copy": [
+        "Let's go check that *GRAVE*!"
+      ]
+    },
+    {
+      "object": "shovelNoNeed",
+      "copy": [
+        "It's a shovel!"
+      ]
+    },
+    {
+      "object": "takeShovel",
+      "copy": [
+        "I will need that!"
+      ]
+    },
+    {
+      "object": "diggHand",
+      "copy": [
+        "I'm not going to dig\nhim up with my hands."
+      ]
+    },
+    {
+      "object": "digGrave",
+      "copy": [
+        "Let's see what the\nold man had to hide!"
+      ]
+    },
+    {
+      "object": "flowerPreBloom",
+      "copy": [
+        "the *GLOWING FLOWER* plant\nIt can bloom any time now."
+      ]
+    },
+    {
+      "object": "missingIngredient",
+      "copy": [
+        "My new *INVENTION*\nis almost ready!",
+        "I only need some\n*GLOWING FLOWER*\nto make it work!"
+      ]
+    },
+    {
+      "object": "pickFlower",
+      "copy": [
+        "Finally, this will\nhelp me finish\nmy *INVENTION*",
+        "I'll take it!"
+      ]
+    },
+    {
+      "object": "startMachine",
+      "copy": [
+        "Let's see if\nthis will work."
+      ]
+    },
+    {
+      "object": "machineDone",
+      "copy": [
+        "I think its done!"
+      ]
+    },
+    {
+      "object": "findGlowPants",
+      "copy": [
+        "Looks like it worked!",
+        "Let's try them on!"
+      ]
+    },
+    {
+      "object": "fishHungry",
+      "copy": [
+        "The fish seem hungry\nI should feed them.",
+        "I think I have some\n*FISH FOOD* inside."
+      ]
+    },
+    {
+      "object": "takeFishFood",
+      "copy": [
+        "*FOOD FOR FISH* tm",
+        "Made from fish, for fish.",
+        "The favourite meal\nof my wet friends."
+      ]
+    },
+    {
+      "object": "feedFish",
+      "copy": [
+        "Here you go guys!\nSome delicious food!"
+      ]
+    },
+    {
+      "object": "fishFoodDone",
+      "copy": [
+        "That will take care\nof them for a while."
+      ]
+    },
+    {
+      "object": "fishHappy",
+      "copy": [
+        "They seem happy!",
+        "Not a care\nin the world."
+      ]
+    },
+    {
+      "object": "findGrandpaPants",
+      "copy": [
+        "The fish left me a gift!",
+        "It's the old underpants\nof grandpa!",
+        "I assumed he was\nburied in them?"
+      ]
+    },
+    {
+      "object": "birdHouseFine",
+      "copy": [
+        "A family of robins\nlived there\nthis summer.",
+        "I hope they come\nback next year."
+      ]
+    },
+    {
+      "object": "birdHouseFell",
+      "copy": [
+        "The wind must have\nblown it crooked.",
+        "But I can't seem to reach it."
+      ]
+    },
+    {
+      "object": " birdHouseFixLater",
+      "copy": [
+        "I'll fix it\nlater."
+      ]
+    },
+    {
+      "object": "takeStick",
+      "copy": [
+        "That's a nice stick!",
+        "I can use that!"
+      ]
+    },
+    {
+      "object": "pushBirdHouse",
+      "copy": [
+        "Let's see if\nI can fix that."
+      ]
+    },
+    {
+      "object": "findGirlPants",
+      "copy": [
+        "The birds must have\nused that to make a nest.",
+        "I can use that."
+      ]
+    },
+    {
+      "object": "samePants",
+      "copy": [
+        "I'm already using them?"
+      ]
+    },
+    {
+      "random": true,
+      "object": "newPants",
+      "copy": [
+        "Looks great on me!",
+        "I like those!",
+        "A little bit tight.",
+        "So soft on my skin.",
+        "The support I need.",
+        "Fits like a glove."
+      ]
+    },
+    {
+      "object": "shouldFeedTheFish",
+      "copy": [
+        "The *FISH* must be hungry!"
+      ]
+    },
+    {
+      "random": true,
+      "object": "doStuffOutside",
+      "copy": [
+        "Let's keep exploring\nthe garden!",
+        "I feel like I\nmissed something?"
+      ]
+    },
+    {
+      "object": "shouldFixBirdhouse",
+      "copy": [
+        "I should try to fix\nthat *BIRDHOUSE*"
+      ]
+    },
+    {
+      "object": "shouldDoWork",
+      "copy": [
+        "It's time for me to\nget started on that\n*UNDERWEAR SIMULATOR*"
+      ]
+    },
+    {
+      "object": "lookBirdHouse",
+      "copy": [
+        "Looks like something's\nwrong with the *BIRDHOUSE*"
+      ]
+    },
+    {
+      "object": "lookFlower",
+      "copy": [
+        "Ow, seems like the\n*GLOWING FLOWER*\nis blooming!"
+      ]
+    },
+    {
+      "object": "checkMailForPackage",
+      "copy": [
+        "Let's check the\n*MAILBOX*"
+      ]
+    },
+    {
+      "object": "diggFirst",
+      "copy": [
+        "Let's check out\nthe *GRAVE*"
+      ]
+    },
+    {
+      "object": "checkKey",
+      "copy": [
+        "I should check\non that *KEY*"
+      ]
+    },
+    {
+      "object": "finishUpInsideLate",
+      "copy": [
+        "It's getting late.\nLet's stay inside."
+      ]
+    },
+    {
+      "object": "sitDown",
+      "copy": [
+        "I'm just too busy to\ntake a break right now."
+      ]
+    },
+    {
+      "object": "takeKeyDone",
+      "copy": [
+        "Let's see if I can\nopen that *BOOKCASE* now."
+      ]
+    },
+    {
+      "object": "checkGirlPants",
+      "copy": [
+        "Looks like something\nfell out of the *BIRDHOUSE*"
+      ]
+    },
+    {
+      "object": "digGraveDone",
+      "copy": [
+        "Got it!",
+        "..."
+      ]
+    }
+
+  ]
+}
